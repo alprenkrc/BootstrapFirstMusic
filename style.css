@@ -1,0 +1,16 @@
+body {
+    background-color: #E9ECEF;
+}
+
+.mbbaslik {
+    color: rgb(196, 74, 189);
+}
+
+img {
+    width: 400px;
+    height: 440px;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(94, 35, 94);
+}
